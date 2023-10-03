@@ -22,7 +22,7 @@ const Login = () => {
         <View style={LoginStyle.firstSection}>
             <Image
                 source={
-                    require('../images/flores.jpg')
+                    require('../../assets/images/flores.jpg')
                 }
                 style={{width: "100%", height: "120%", resizeMode: "cover", opacity: 0.5 }}
             />
